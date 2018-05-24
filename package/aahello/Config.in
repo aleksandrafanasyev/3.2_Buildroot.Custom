@@ -1,0 +1,8 @@
+config BR2_PACKAGE_AAHELLO
+	bool "aahello"
+	help
+	  aahello programm from task 3.1_Raspbian_Cross-compile
+	  for task 3.2_Buildroot.Custom.
+	  Aleksandr Afanasyev
+
+
